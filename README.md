@@ -50,3 +50,5 @@ In this assignment, you'll create one of two possible computer games: Word Guess
 8. Letters Already Guessed: (Letters the user has guessed, displayed like `L Z Y H`).
 
 9. After the user wins/loses the game should automatically choose another word and make the user play it.
+
+[Try it here!](https://robw219.github.io/Hangman-Game/)
